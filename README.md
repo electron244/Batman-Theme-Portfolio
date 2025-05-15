@@ -31,7 +31,7 @@ Follow these steps to run the portfolio locally:
 git clone https://github.com/electron244/Batman-Theme-Portfolio.git
 
 # 2️⃣ Navigate to the folder
-cd react-portfolio-template
+cd Batman-Theme-Portfolio
 
 # 3️⃣ Install dependencies
 npm install
