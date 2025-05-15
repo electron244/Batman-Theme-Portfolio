@@ -28,7 +28,7 @@ Follow these steps to run the portfolio locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/react-portfolio-template.git
+git clone https://github.com/electron244/Batman-Theme-Portfolio.git
 
 # 2️⃣ Navigate to the folder
 cd react-portfolio-template
