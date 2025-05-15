@@ -18,7 +18,7 @@ A clean, responsive, and beginner-friendly portfolio built using **React.js**. P
 ## 📸 Preview
 
 ![Portfolio Screenshot](preview.png)  
-*(You can replace this with your own screenshot)*
+
 
 ---
 
